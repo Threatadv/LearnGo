@@ -1,4 +1,1 @@
-# golang
-# Golang
-# LearnGo
 # LearnGo
